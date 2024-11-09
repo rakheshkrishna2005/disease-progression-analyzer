@@ -10,7 +10,7 @@
 - Supports **clinical analysis**, **biomarker interpretation**, and **risk assessment** for a comprehensive patient overview.
 
 ## 🎥 Demo Video 
-[Demo Video](https://github.com/user-attachments/assets/9985f8a8-1931-49c9-a31d-667e1e4c9e37)
+[Demo Video](https://github.com/user-attachments/assets/893969ae-6968-4ed3-95ec-77fd9bcf6ee8)
 
 ## 🚀 Features
 
