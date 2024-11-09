@@ -26,8 +26,7 @@
 - 🐍 **Programming Language:** Python
 - 🌐 **Framework:** Streamlit for web interface
 - 👁️ **Library:** LangChain for language model interface, dotenv for environment management
-- 🔥 **LLM Model Provider:** Groq (Llama3-8b) for robust language processing
-- 🦾 **Hardware Acceleration:** Groq hardware for efficient AI computations
+- 🔥 **LLM Model Provider:** Groq (llama3-8b-8192) for robust language processing
 - 📟 **Data Processing:** Tools for handling complex biomedical data
 
 ## 🌐 Web Interface
